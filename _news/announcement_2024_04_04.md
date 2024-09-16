@@ -5,6 +5,6 @@ inline: true
 related_posts: false
 ---
 
-Our <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10597522">paper</a> submitted to 2024 Ubiquitous Robots got accepted!
+Our <a href="https://ieeexplore.ieee.org/document/10597522">paper</a> submitted to 2024 Ubiquitous Robots got accepted!
 
 <!-- A simple inline announcement with Markdown emoji! :sparkles: :smile: -->
