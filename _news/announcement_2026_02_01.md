@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our <a href="https://arxiv.org/abs/2405.17227">paper</a> submitted to 2026 ICRA got accepted!
+Our <a href="https://arxiv.org/abs/2505.11808">paper</a> submitted to 2026 ICRA got accepted!
