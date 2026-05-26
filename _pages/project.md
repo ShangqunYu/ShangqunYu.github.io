@@ -20,39 +20,6 @@ nav_order: 1
 
 <div class="row project-grid">
   <div class="col-sm-6 col-lg-4 mb-4">
-    <a href="https://guidedogrobot-navigation.github.io" target="_blank" rel="noopener">
-      <div class="card hoverable">
-        <img src="{{ '/assets/img/publication_preview/hri-final.gif' | relative_url }}" class="card-img-top" alt="GuideNav">
-        <div class="card-body">
-          <h3 class="card-title">GuideNav: Vision-Only Long-Range Route Following 🏆</h3>
-          <p class="card-text">Robust visual teach-and-repeat for kilometer-scale route following using only images.</p>
-        </div>
-      </div>
-    </a>
-  </div>
-  <div class="col-sm-6 col-lg-4 mb-4">
-    <a href="https://guidedogrobot-hgidataset.github.io" target="_blank" rel="noopener">
-      <div class="card hoverable">
-        <img src="{{ '/assets/img/publication_preview/chi24.png' | relative_url }}" class="card-img-top" alt="GuideData">
-        <div class="card-body">
-          <h3 class="card-title">GuideData: Handler-Guide Dog Interaction Dataset 🏆</h3>
-          <p class="card-text">A dataset capturing interactions between handlers and guide dogs for guide dog robot design implications.</p>
-        </div>
-      </div>
-    </a>
-  </div>
-  <div class="col-sm-6 col-lg-4 mb-4">
-    <a href="https://guidedogrobot-tactile.github.io/" target="_blank" rel="noopener">
-      <div class="card hoverable">
-        <img src="{{ '/assets/img/publication_preview/tactile26.gif' | relative_url }}" class="card-img-top" alt="GuideTWSI">
-        <div class="card-body">
-          <h3 class="card-title">GuideTWSI: Stopping at Tactile Pavings 🏆</h3>
-          <p class="card-text">Synthetic TWSI data generation for tactile paving segmentation and stopping.</p>
-        </div>
-      </div>
-    </a>
-  </div>
-  <div class="col-sm-6 col-lg-4 mb-4">
     <a href="https://guidedogrobot-stairclimbing.github.io" target="_blank" rel="noopener">
       <div class="card hoverable">
         <img src="{{ '/assets/img/publication_preview/locomotion25.gif' | relative_url }}" class="card-img-top" alt="Quiet and Stable Locomotion Control">
@@ -63,47 +30,9 @@ nav_order: 1
       </div>
     </a>
   </div>
-  <div class="col-sm-6 col-lg-4 mb-4">
-    <a href="https://guidedogrobot-obstacleavoid.github.io" target="_blank" rel="noopener">
-      <div class="card hoverable">
-        <img src="{{ '/assets/img/publication_preview/icra23.gif' | relative_url }}" class="card-img-top" alt="System Integration & Obstacle Avoidance">
-        <div class="card-body">
-          <h3 class="card-title">System Integration &amp; Obstacle Avoidance</h3>
-          <p class="card-text">Guide dog robot configuration and semantics-aware local path planning.</p>
-        </div>
-      </div>
-    </a>
-  </div>
-  <div class="col-sm-6 col-lg-4 mb-4">
-    <a href="{{ '/SToP/' | relative_url }}">
-      <div class="card hoverable">
-        <img src="{{ '/assets/img/publication_preview/rita24.png' | relative_url }}" class="card-img-top" alt="SToP Dataset">
-        <div class="card-body">
-          <h3 class="card-title">The Synthetic Tactile-on-Paving (SToP) Dataset</h3>
-          <p class="card-text">Unreal Engine-based synthetic data augmentation for tactile paving detection.</p>
-        </div>
-      </div>
-    </a>
-  </div>
 </div>
 
-<h2 class="project-section-title">Competitions</h2>
-
-<div class="row project-grid">
-  <div class="col-sm-6 col-lg-4 mb-4">
-    <a href="{{ '/Cybathlon/' | relative_url }}">
-      <div class="card hoverable">
-        <img src="{{ '/assets/img/publication_preview/ava25.png' | relative_url }}" class="card-img-top" alt="CYBATHLON Vision Assistance Race 2023">
-        <div class="card-body">
-          <h3 class="card-title">CYBATHLON Vision Assistance Race 2023</h3>
-          <p class="card-text">Solving real-world problems for blind and low-vision people.</p>
-        </div>
-      </div>
-    </a>
-  </div>
-</div>
-
-<h2 class="project-section-title">Other Research</h2>
+<!-- <h2 class="project-section-title">Other Research</h2>
 
 <div class="row project-grid">
   <div class="col-sm-6 col-lg-4 mb-4">
@@ -128,4 +57,4 @@ nav_order: 1
       </div>
     </a>
   </div>
-</div>
+</div> -->
