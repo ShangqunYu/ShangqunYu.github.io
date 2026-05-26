@@ -1,0 +1,20 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+ExternalPosts	_plugins/external-posts.rb	/^module ExternalPosts$/;"	m
+ExternalPostsGenerator	_plugins/external-posts.rb	/^  class ExternalPostsGenerator < Jekyll::Generator$/;"	c	class:ExternalPosts
+HideCustomBibtex	_plugins/hideCustomBibtex.rb	/^  module HideCustomBibtex$/;"	m	class:Jekyll
+Jekyll	_plugins/hideCustomBibtex.rb	/^ module Jekyll$/;"	m
+generate	_plugins/external-posts.rb	/^    def generate(site)$/;"	f	class:ExternalPosts.ExternalPostsGenerator
+getCurrentScrollPosition	_includes/scripts/progressBar.html	/^  function getCurrentScrollPosition() {$/;"	f
+getDistanceToScroll	_includes/scripts/progressBar.html	/^  function getDistanceToScroll() {$/;"	f
+getWidthPercentage	_includes/scripts/progressBar.html	/^  function getWidthPercentage() {$/;"	f
+gtag	_includes/VisionADL.html	/^        function gtag() {$/;"	f
+gtag	_includes/scripts/analytics.html	/^    function gtag(){ window.dataLayer.push(arguments); }$/;"	f
+hideCustomBibtex	_plugins/hideCustomBibtex.rb	/^    def hideCustomBibtex(input)$/;"	f	class:Jekyll.HideCustomBibtex
+initializeProgressElement	_includes/scripts/progressBar.html	/^  function initializeProgressElement() {$/;"	f
+progressBarSetup	_includes/scripts/progressBar.html	/^  function progressBarSetup() {$/;"	f
+resizeProgressBar	_includes/scripts/progressBar.html	/^  function resizeProgressBar() {$/;"	f

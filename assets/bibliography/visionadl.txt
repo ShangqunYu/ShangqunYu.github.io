@@ -1,0 +1,6 @@
+@article{hwang2022system,
+	title={System Configuration and Navigation of a Guide Dog Robot: Toward Animal Guide Dog-Level Guiding Work},
+	author={Hwang, Hochul and Xia, Tim and Keita, Ibrahima and Suzuki, Ken and Biswas, Joydeep and Lee, Sunghoon I and Kim, Donghyun},
+	journal={arXiv preprint arXiv:2210.13368},
+	year={2022}
+}

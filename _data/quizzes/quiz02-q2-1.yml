@@ -1,0 +1,16 @@
+# title: This is the Quiz Title
+usemathjax: true
+randomized: true
+questions:
+
+ - type: "multiple-choice"
+   question: <b>2-1. <a style='color:#B509AC;'>Newtonian Dynamics - Rotational Motion.</a></b> The left diagram depicts a person (blue circle) rotating a flywheel (yellow circle) which is connected in the center using a rope. The right diagram describes the rotating flywheel. What is the correct match of the centripetal and centrifugal forces on the left diagram?
+   items:
+    - choice:  $F_1 \text{(centripetal force)} = \frac{-2mv^2}{R}$, $F_2 \text{(centrifugal force)} = \frac{mv^2}{R}$
+      correct: false
+    - choice:  $F_1 \text{(centripetal force)} = \frac{-mv^2}{R}$, $F_2 \text{(centrifugal force)} = \frac{mv^2}{R}$
+      correct: false
+    - choice:  $F_1 \text{(centrifugal force)} = \frac{-2mv^2}{R}$, $F_2 \text{(centripetal force)} = \frac{mv^2}{R}$
+      correct: false
+    - choice:  $F_1 \text{(centrifugal force)} = \frac{-mv^2}{R}$, $F_2 \text{(centripetal force)} = \frac{mv^2}{R}$
+      correct: true
