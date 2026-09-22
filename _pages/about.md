@@ -21,6 +21,7 @@ profile:
   #   <p>Amherst, Massachusetts 01003</p>
 
 news: true  # includes a list of news items
+current_projects: true # includes a "current projects" showcase
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---

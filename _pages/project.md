@@ -32,6 +32,22 @@ nav_order: 1
   </div>
 </div>
 
+<h2 class="project-section-title">Current Projects</h2>
+
+<div class="row project-grid">
+  <div class="col-sm-6 col-lg-4 mb-4">
+    <a href="{{ '/Dash/' | relative_url }}">
+      <div class="card hoverable">
+        <img src="{{ '/assets/img/dash/integrationTest.gif' | relative_url }}" class="card-img-top" alt="Dash humanoid robot integration testing">
+        <div class="card-body">
+          <h3 class="card-title">Dash — an open source humanoid robot</h3>
+          <p class="card-text">Custom motor controller and communication boards, firmware, motor testing, robot integration, and RL policy deployment.</p>
+        </div>
+      </div>
+    </a>
+  </div>
+</div>
+
 <!-- <h2 class="project-section-title">Other Research</h2>
 
 <div class="row project-grid">
